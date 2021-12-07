@@ -71,6 +71,7 @@ Justin Villena
 - Kaj Wiegerink
 - Nikhil Kumawat
 - Derek Musial
+- Josh Lutrick
 - Juliette Montes
 - Grace Tholl
 - Yuko Matsumoto
